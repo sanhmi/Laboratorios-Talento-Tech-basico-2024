@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(31, 31, 31);
+    padding: 100px;
+}
+
+.sheetCss {
+    width: 800px;
+    padding: 80px;
+    margin: 0 auto;
+    background-image: url(./fondo.webp);
+    background-size: cover;
+    border: solid 5px rgb(255, 255, 255);
+    border-radius: 30px;
+    margin-top: 40px;
+
+
+}
+
+.sheetCss h1 {
+    text-align: center;
+    color: azure;
+    font-style: inherit;
+
+}
+
+.sheetCss p {
+    text-align: center;
+    color: aliceblue;
+}
+
+.sheetCss img {
+    height: 150px;
+    display: block;
+    margin: auto;
+}
